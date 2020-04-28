@@ -1,2 +1,2 @@
 # tomekknapczyk.github.io
-My personal site
+I am web developer and this is my personal site
